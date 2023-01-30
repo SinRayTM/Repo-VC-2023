@@ -1,5 +1,9 @@
 Started (1/30/2023)
 Changes (1/30/2023) First Documentation
 Added a second txt file
+<<<<<<< HEAD
 
 kkk
+=======
+l
+>>>>>>> d097ce4d51e6bcf5038b0da5765759691798f7ff
